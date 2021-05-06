@@ -1,10 +1,3 @@
-/*
-Chapter03_Q3.cpp
-Duarte, Cameryn
-CSC119.143 Introduction to Programming Spring 2021
-02/11/2021
-This program calculates the average of test scores
-*/
 #include <iostream>
 #include <iomanip>//allows stream manipulators
 using namespace std;
